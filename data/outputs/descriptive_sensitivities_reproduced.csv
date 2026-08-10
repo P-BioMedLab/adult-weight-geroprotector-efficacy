@@ -1,0 +1,21 @@
+"analysis","bins","bin","mean_control_weight","control_median","treated_median","gain_pct"
+"weight-lowering conventional quartiles",4,1,34.644694897878,898,945,5.23385300668151
+"weight-lowering conventional quartiles",4,2,39.5205836528418,809,912,12.7317676143387
+"weight-lowering conventional quartiles",4,3,42.859577627451,750,859,14.5333333333333
+"weight-lowering conventional quartiles",4,4,47.4503145125786,678,810,19.4690265486726
+"non-lowering conventional quartiles",4,1,34.0187337868217,891,928,4.15263748597082
+"non-lowering conventional quartiles",4,2,38.8132755728716,839,848,1.07270560190703
+"non-lowering conventional quartiles",4,3,42.319156586747,751,784,4.39414114513981
+"non-lowering conventional quartiles",4,4,46.8754458395062,681,713,4.69897209985316
+"weight-lowering rank tertiles",3,1,34.9565655858586,890,945,6.17977528089888
+"weight-lowering rank tertiles",3,2,41.2458677334711,789,879,11.4068441064639
+"weight-lowering rank tertiles",3,3,46.5940828461538,685,826,20.5839416058394
+"weight-lowering rank quartiles",4,1,34.1733044054834,904,952,5.30973451327434
+"weight-lowering rank quartiles",4,2,39.561657244382,814,911,11.9164619164619
+"weight-lowering rank quartiles",4,3,42.8382038980213,751,859,14.3808255659121
+"weight-lowering rank quartiles",4,4,47.4292835451713,678,810,19.4690265486726
+"weight-lowering rank fifths",5,1,33.5138488399281,909,965,6.16061606160616
+"weight-lowering rank fifths",5,2,37.9464705313725,851,916,7.63807285546416
+"weight-lowering rank fifths",5,3,41.249319670068,789,883,11.9138149556401
+"weight-lowering rank fifths",5,4,43.5932652816327,734,859,17.0299727520436
+"weight-lowering rank fifths",5,5,47.9332143357143,659,786,19.2716236722307
