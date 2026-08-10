@@ -1,7 +1,3 @@
-# Analysis hierarchy
-
-Recorded at repository freeze: 10 August 2026. This document summarizes the final inferential hierarchy used in the manuscript.
-
 ## Primary analysis
 
 The primary estimand is the shared treatment-by-adult-weight interaction in the unselected, sex-specific Cox models containing all eligible randomized ITP arms. Adult weight is standardized within treatment group, site and sex.
