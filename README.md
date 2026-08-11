@@ -1,6 +1,6 @@
 # Body weight and geroprotector efficacy
 
-Code and data supporting the analyses in *Adult body weight modifies geroprotector efficacy in genetically heterogeneous mice*.
+Code and data supporting the analyses in *Body weight modifies the apparent efficacy of lifespan-extending drugs in mice*.
 
 ## Reproduction
 
