@@ -1,4 +1,4 @@
-# Adult body weight and geroprotector efficacy
+# Body weight and geroprotector efficacy
 
 Code and data supporting the analyses in *Adult body weight modifies geroprotector efficacy in genetically heterogeneous mice*.
 
